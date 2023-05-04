@@ -24,18 +24,21 @@ Checklist
     
 TODO
 
-- [x] figure 1
+- [x] Intro text: Sae
+- [x] Results text: Will
+
+- [x] figure 1: Sae 
     - [x] figure of task
     
-- [x] figure 2
+- [x] figure 2: Yousuf
     - [x] anatomy for both subjects
     - [x] auditory mask
     - [x] mean bold signal in auditory cortex
     - [x] preprocessing (head motion, etc)
 
-- [x] figure 3
+- [x] figure 3: Iman
     - [x] GLM coef on brain for familiar language vs not
     - [x] GLM coef on brain for first language vs second
     
-- [x] figure 4
+- [x] figure 4: Dexter
     - [x] Word embeddings (optional)
