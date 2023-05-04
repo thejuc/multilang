@@ -20,3 +20,22 @@ Checklist
     - [x] Basic OLS regression with confounds
     - [x] Basic OLS regression with time-lagged stimulus
     - [x] Regression analysis with `FirstLevelModel` from `nilearn`
+    
+    
+TODO
+
+- [x] figure 1
+    - [x] figure of task
+    
+- [x] figure 2
+    - [x] anatomy for both subjects
+    - [x] auditory mask
+    - [x] mean bold signal in auditory cortex
+    - [x] preprocessing (head motion, etc)
+
+- [x] figure 3
+    - [x] GLM coef on brain for familiar language vs not
+    - [x] GLM coef on brain for first language vs second
+    
+- [x] figure 4
+    - [x] Word embeddings (optional)
