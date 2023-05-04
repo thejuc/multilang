@@ -24,18 +24,18 @@ Checklist
     
 TODO
 
-- [] figure 1
-    - [] figure of task
+- [x] figure 1
+    - [x] figure of task
     
-- [] figure 2
-    - [] anatomy for both subjects
-    - [] auditory mask
-    - [] mean bold signal in auditory cortex
-    - [] preprocessing (head motion, etc)
+- [x] figure 2
+    - [x] anatomy for both subjects
+    - [x] auditory mask
+    - [x] mean bold signal in auditory cortex
+    - [x] preprocessing (head motion, etc)
 
-- [] figure 3
-    - [] GLM coef on brain for familiar language vs not
-    - [] GLM coef on brain for first language vs second
+- [x] figure 3
+    - [x] GLM coef on brain for familiar language vs not
+    - [x] GLM coef on brain for first language vs second
     
-- [] figure 4
-    - [] Word embeddings (optional)
+- [x] figure 4
+    - [x] Word embeddings (optional)
